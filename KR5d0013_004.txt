@@ -1,11 +1,11 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 金碧古文龍虎上經
-#+DATE: 2015-08-28 23:02:50
+#+DATE: 2015-08-28 23:02:54
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: LASTPB  <md:KR5d0013_WYG_003-23b>
 #+PROPERTY: JUAN 4
-¶<pb:KR5d0013_CK-KZ_01p087b><pb:KR5d0013_CK-KZ_01p088a>
+¶<pb:KR5d0013_YP-C_08douji-04-0089b><pb:KR5d0013_YP-C_08douji-04-0090a>
 　¶　¶參¶同契大丹火候¶
 　　攢簇周天火候圖¶
 攢簇周天火數以合年月日時隨順陰陽抽添水火¶使龍精漸
@@ -16,7 +16,7 @@
 　　火金眞秘訣　　此外更何施¶<md:KR5d0013_WYG_004-2a>¶¶<md:KR5d0013_WYG_004-3a>¶
 
 
-<pb:KR5d0013_CK-KZ_01p088b>
+<pb:KR5d0013_YP-C_08douji-04-0090b>
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-<pb:KR5d0013_CK-KZ_01p089a>
+<pb:KR5d0013_YP-C_08douji-04-0091a>
 
 　¶　¶攢¶　¶　¶簇¶　¶　¶<md:KR5d0013_WYG_004-3b>¶周　　天
 
@@ -38,7 +38,7 @@
 
 
 
-<pb:KR5d0013_CK-KZ_01p089b>
+<pb:KR5d0013_YP-C_08douji-04-0091b>
 
 
 
@@ -49,7 +49,7 @@
 
 　　火　　候　　之　　圖
 
-<pb:KR5d0013_CK-KZ_01p090a>
+<pb:KR5d0013_YP-C_08douji-04-0092a>
 
 　　金　　火　　相　　交
 
@@ -60,7 +60,7 @@
 
 
 
-<pb:KR5d0013_CK-KZ_01p090b>
+<pb:KR5d0013_YP-C_08douji-04-0092b>
 
 
 
@@ -71,7 +71,7 @@
 
 　　生　　藥　　之　　圖
 
-<pb:KR5d0013_CK-KZ_01p091a>
+<pb:KR5d0013_YP-C_08douji-04-0093a>
 　　參同契大丹火候¶
 　　金火相交生藥圖¶
 日火月金晦夜合交精氣相紐生成萬物一月數終¶又復如初
